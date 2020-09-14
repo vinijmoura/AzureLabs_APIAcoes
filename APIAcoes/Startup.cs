@@ -34,7 +34,7 @@ namespace APIAcoes
                     new OpenApiInfo
                     {
                         Title = "Ações - Testes - Azure Service Bus",
-                        Version = "v1",
+                        Version = "v2",
                         Description = "Exemplo de API REST criada com o ASP.NET Core 3.1 para o envio de dados de ações a uma Fila do Azure Service Bus",
                         Contact = new OpenApiContact
                         {
